@@ -1,0 +1,23 @@
+{
+    "to": "fp5_pTjJSTSxNQiNkj9uzL:APA91bFUinRLIDWlzUVtHEW7m_BzIZtv5_NNMrZWg9QJOQD8WVPCTjYhYJjJrDtV0VU3inDjMIWFdP97dYjzjndx36VXjqwBMAxTVJEohTJ0og7zxnjcbolaJEJvSDPD6PzHkAXwO9va",
+    "notification": {
+        "title": "you have recieved a message from abdullah mansour",
+        "body": "testing body from post man",
+        "sound": "default"
+    },
+    "android": {
+        "priority": "HIGH",
+        "notification": {
+            "notification_priority": "PRIORITY_MAX",
+            "sound": "default",
+            "default_sound": true,
+            "default_vibrate_timings": true,
+            "default_light_settings": true
+        }
+    },
+    "data": {
+        "type": "order",
+        "id": "87",
+        "click_action": "FLUTTER_NOTIFICATION_CLICK"
+    }
+}

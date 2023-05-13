@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "975105584855",
+    "project_id": "social-app-firebase-mansour",
+    "storage_bucket": "social-app-firebase-mansour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975105584855:android:83c89018dd9e009ce74a92",
+        "android_client_info": {
+          "package_name": "com.flutterfirebase.abdullahcource.social_app_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975105584855-emslrnrjqpvmb8edhi53mrksvdku2cc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterfirebase.abdullahcource.social_app_firebase",
+            "certificate_hash": "45cd81ac587f2aa7efbd2cc79b35cf4d43bdc124"
+          }
+        },
+        {
+          "client_id": "975105584855-a2kd0gg5gsder8gk4s5r4fb5u19g4e99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkVD97COmJA2XCJgxRKKSPdA9x7Gejr-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975105584855-a2kd0gg5gsder8gk4s5r4fb5u19g4e99.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975105584855-gsc2hb4di01ohsli8bspa1ba2goianeq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterfirebase.abdullahcource.socialAppFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

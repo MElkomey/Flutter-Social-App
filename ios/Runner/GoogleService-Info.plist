@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>975105584855-gsc2hb4di01ohsli8bspa1ba2goianeq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.975105584855-gsc2hb4di01ohsli8bspa1ba2goianeq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>975105584855-emslrnrjqpvmb8edhi53mrksvdku2cc8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDe1rCHgZtzb2QbNiyMIISzOSJUsbhtknE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>975105584855</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterfirebase.abdullahcource.socialAppFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>social-app-firebase-mansour</string>
+	<key>STORAGE_BUCKET</key>
+	<string>social-app-firebase-mansour.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:975105584855:ios:80887d7dfc658d34e74a92</string>
+</dict>
+</plist>
